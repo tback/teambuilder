@@ -1,1 +1,1 @@
-slackclient==0.16
+slackclient
